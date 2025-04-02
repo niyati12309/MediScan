@@ -40,7 +40,7 @@ function App() {
               <Shield className="w-8 h-8 text-white" />
             </div>
             <h1 className="ml-4 text-3xl font-bold bg-gradient-to-r from-primary-600 to-accent-600 bg-clip-text text-transparent">
-              Medicine Authenticity Verification
+              MEDIKNOW
             </h1>
           </div>
         </div>
